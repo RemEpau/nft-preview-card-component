@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-card-component-PEermZIDBq](https://www.frontendmentor.io/solutions/nft-card-component-PEermZIDBq)
+- Live Site URL: [https://remepa-nft-card.netlify.app/](https://remepa-nft-card.netlify.app/)
 
 ## My process
 
